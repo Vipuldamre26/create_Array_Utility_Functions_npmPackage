@@ -4,7 +4,7 @@ A simple npm package providing various utility functions to work with arrays eff
 # Installation
 You can install this package via npm:
 
-
+npm i array-utility-functions
 
 
 # Functionalities
