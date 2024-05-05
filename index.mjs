@@ -64,7 +64,7 @@ function removeDuplicateElements(arr){
 
 
 
-export default { sumOfArray, multipleOfArray, sortArrayByAccending, sortArrayByDecending, binarySearch, largestNumInArray, removeDuplicateElements }
+export { sumOfArray, multipleOfArray, sortArrayByAccending, sortArrayByDecending, binarySearch, largestNumInArray, removeDuplicateElements }
 
 
 // let arr = [4, 3, 1, 8, 9, 2, 4, 1, 8, 4, 4, 3]
